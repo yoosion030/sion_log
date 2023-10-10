@@ -1,8 +1,8 @@
-# Page 1
+---
+description: 토스 slash 컨퍼런스 영상을 보고 알게된 내용이나 느낀점을 정리해보겠다!
+---
 
-## **Effective Component**
-
-토스 slash 컨퍼런스 영상을 보고 알게된 내용이나 느낀점을 정리해보겠다!
+# Effective Component
 
 ### 변경?!
 
