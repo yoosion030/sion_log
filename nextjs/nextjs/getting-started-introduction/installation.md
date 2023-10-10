@@ -85,7 +85,7 @@ Next.js는 파일 시스템 기반 라우팅을 사용합니다. 즉, 파일 구
 
 `app/` 폴더를 생성한 다음 `layout.tsx` 및 `page.tsx` 파일을 추가합니다. 이는 사용자가 애플리케이션의 루트(/)를 방문할 때 렌더링됩니다.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 필수 태그인 `<html>`, `<body>` 를 사용하여 `app/layout.tsx` 내에 루트 레이아웃을 만듭니다:
 
