@@ -14,3 +14,5 @@
   * [Getting Started - Introduction](nextjs/nextjs/getting-started-introduction/README.md)
     * [Installation](nextjs/nextjs/getting-started-introduction/installation.md)
     * [Next.js Project Structure](nextjs/nextjs/getting-started-introduction/next.js-project-structure.md)
+  * [Building Your Application](nextjs/nextjs/building-your-application.md)
+  * [Page 1](nextjs/nextjs/page-1.md)
