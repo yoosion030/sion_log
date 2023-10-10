@@ -11,4 +11,5 @@
 ## NextJS
 
 * [NextJS 공식문서 번역](nextjs/nextjs/README.md)
-  * [Introduction](nextjs/nextjs/introduction.md)
+  * [Getting Started - Introduction](nextjs/nextjs/getting-started-introduction/README.md)
+    * [Installation](nextjs/nextjs/getting-started-introduction/installation.md)
