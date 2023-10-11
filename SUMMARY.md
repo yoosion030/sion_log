@@ -28,3 +28,4 @@
     * [페이지 이동](nextjs/next.js/2.-next.js/undefined.md)
     * [스타일링](nextjs/next.js/2.-next.js/undefined-1.md)
     * [데이터 페칭](nextjs/next.js/2.-next.js/undefined-2.md)
+    * [메타데이터](nextjs/next.js/2.-next.js/undefined-3.md)
