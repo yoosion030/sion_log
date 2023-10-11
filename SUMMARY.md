@@ -25,3 +25,4 @@
     * [Next.js 13](nextjs/next.js/2.-next.js/next.js-13.md)
     * [서버 컴포넌트(Server Component)](nextjs/next.js/2.-next.js/server-component.md)
     * [라우팅(Routing)](nextjs/next.js/2.-next.js/routing.md)
+    * [페이지 이동](nextjs/next.js/2.-next.js/undefined.md)
