@@ -20,3 +20,4 @@
   * [1. 왜 Next.js를 배우는가?](nextjs/next.js/1.-next.js/README.md)
     * [Next.js가 세상에 있기까지](nextjs/next.js/1.-next.js/next.js.md)
     * [Next.js를 배우는 이유](nextjs/next.js/1.-next.js/next.js-1.md)
+  * [2. Next.js 기본기 배우기](nextjs/next.js/2.-next.js.md)
