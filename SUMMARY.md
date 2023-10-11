@@ -16,3 +16,7 @@
     * [Next.js Project Structure](nextjs/nextjs/getting-started-introduction/next.js-project-structure.md)
   * [Building Your Application](nextjs/nextjs/building-your-application.md)
   * [Routing](nextjs/nextjs/routing.md)
+* [\[손에 익는 Next.js\] 공식 문서 훑어보기](nextjs/next.js/README.md)
+  * [1. 왜 Next.js를 배우는가?](nextjs/next.js/1.-next.js/README.md)
+    * [Next.js가 세상에 있기까지](nextjs/next.js/1.-next.js/next.js.md)
+    * [Next.js를 배우는 이유](nextjs/next.js/1.-next.js/next.js-1.md)
