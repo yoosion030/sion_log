@@ -26,7 +26,5 @@
     * [서버 컴포넌트(Server Component)](nextjs/next.js/2.-next.js/server-component.md)
     * [라우팅(Routing)](nextjs/next.js/2.-next.js/routing.md)
     * [페이지 이동](nextjs/next.js/2.-next.js/undefined.md)
-
-***
-
-* [스타일링](undefined.md)
+    * [스타일링](nextjs/next.js/2.-next.js/undefined-1.md)
+    * [데이터 페칭](nextjs/next.js/2.-next.js/undefined-2.md)

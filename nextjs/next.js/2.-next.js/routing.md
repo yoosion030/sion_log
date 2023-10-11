@@ -14,7 +14,7 @@ Next.js에선 파일 시스템으로 경로를 지정하는데요. 무슨 의미
 
 Next.js의 파일 시스템 기반의 라우팅은 아래와 같은 형태를 이룹니다.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 `app`이라는 폴더를 만들고 그 아래 `dashboard`, `settings`라는 폴더를 만들면 URL path가 폴더 이름과 동일한 순서를 따라 만들어집니다.&#x20;
 
@@ -30,7 +30,7 @@ Next.js의 파일 시스템 기반의 라우팅은 아래와 같은 형태를 �
 
 아래의 이미지를 보시면 파일 이름을 약속된대로 지정해서 세그먼트 안에 정의하면 Next.js가 알아서 React 컴포넌트를 배치해주는거죠.
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 위에서 언급한 파일명 이외에는 아무 이름이나 넣어도 라우트에 영향을 주지 않습니다. 필요에 따라 다양한 파일을 추가해도 괜찮다는 의미죠.
 
