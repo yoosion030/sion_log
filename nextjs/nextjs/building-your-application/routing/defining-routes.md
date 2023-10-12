@@ -10,11 +10,11 @@ Next.js는 폴더를 사용하여 경로를 정의하는 파일 시스템 기반
 
 각 폴더는 URL 세그먼트에 매핑되는 경로 세그먼트를 나타냅니다. 중첩된 경로를 만들려면 폴더를 서로 중첩하면 됩니다.
 
-<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 특별한 page.js 파일은 경로 세그먼트에 공개적으로 액세스할 수 있도록 하는 데 사용됩니다.
 
-<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 이 예에서 `/dashboard/analytics URL` 경로에는 해당 page.js 파일이 없기 때문에 공개적으로 액세스할 수 없습니다. 이 폴더는 컴포넌트, 스타일시트, 이미지 또는 기타 같은 위치에 있는 파일을 저장하는 데 사용될 수 있습니다.
 

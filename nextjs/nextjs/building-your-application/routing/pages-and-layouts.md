@@ -12,7 +12,7 @@ page.js 파일에서 컴포넌트를 내보내 페이지를 정의할 수 있습
 
 앱 디렉터리 내에 page.js 파일을 추가하여 첫 번째 페이지를 만듭니다:
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ```tsx
 // `app/page.tsx` is the UI for the `/` URL
@@ -52,7 +52,7 @@ layout은 여러 페이지에서 공유되는 UI입니다. 탐색 시 레이아�
 
 
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ```tsx
 export default function DashboardLayout({
@@ -103,7 +103,7 @@ export default function DashboardLayout({
 
 폴더 내에 정의된 레이아웃(예: app/dashboard/layout.js)은 특정 경로 세그먼트(예: acme.com/dashboard)에 적용되고 해당 세그먼트가 활성화되면 렌더링됩니다. 기본적으로 파일 계층 구조의 레이아웃은 중첩되어 있습니다. 즉, children prop을 통해 하위 레이아웃을 래핑합니다.
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ```tsx
 export default function DashboardLayout({
@@ -125,7 +125,7 @@ export default function DashboardLayout({
 
 두 레이아웃은 다음과 같이 중첩됩니다:
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 라우트 그룹을 사용하여 공유 레이아웃 안팎에서 특정 경로 세그먼트를 선택할 수 있습니다.
 
@@ -145,7 +145,7 @@ export default function DashboardLayout({
 
 template.js 파일에서 기본 React 컴포넌트를 내보내 템플릿을 정의할 수 있습니다. 컴포넌트는 `children` prop을 허용해야 합니다.
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 ```tsx
 export default function Template({ children }: { children: React.ReactNode }) {
