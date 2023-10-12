@@ -51,7 +51,7 @@ fetch('https://...', { cache: 'force-cache' })
 
 이번 강의에서 메모화, 캐시에 대한 모든 것을 다루긴 어렵습니다. 지금은 데이터 캐시만을 다룬다는 점을 알고 넘어가면 혼란이 적을 것 같습니다.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 ### 데이터 재검증(Revalidating)
 
@@ -68,7 +68,7 @@ fetch('https://...', { cache: 'force-cache' })
 fetch('https://...', { next: { revalidate: 3600 } })
 ```
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 이미지를 자세히 보시면 시간이 지한 후 STALE 되고 나서 바로 데이터를 보내줍니다. 그리고 그 후에 재검증을 하는데요. 이 말은 무엇이냐면, 재검증이란 refetch 다시 요청하는 것이 아닌 데이터가 유효한지 검사하는 역할입니다.&#x20;
 
@@ -88,6 +88,6 @@ fetch('https://...', { next: { tags: ['collection'] } })
 revalidateTag('collection')
 ```
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 온디맨드 재검증 방식 또한 마찬가지 입니다. revalidateTag 함수가 실행되면, 해당 캐시를 PURGE(정지)해버립니다. 그리고 다음 호출부터 최신의 데이터를 내려줍니다.

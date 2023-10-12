@@ -33,10 +33,3 @@ export default function Page() {
 }
 ```
 {% endcode %}
-
-
-
-
-
-
-

@@ -8,7 +8,7 @@
 
 먼저, 문서 전체에서 이러한 용어가 사용되는 것을 볼 수 있습니다:
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 \- **Tree**: 계층 구조를 시각화하기 위한 규칙입니다. 예를 들어 상위 및 하위 컴포넌트가 있는 컴포넌트 트리, 폴더 구조 등이 있습니다.
 
@@ -18,7 +18,7 @@
 
 \- **Leaf**: URL 경로의 마지막 세그먼트와 같이 자식이 없는 하위 트리의 노드입니다.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 \- **URL Segment**: 슬래시로 구분된 URL 경로의 일부입니다.
 
@@ -40,7 +40,7 @@
 앱 라우터는 페이지 라우터보다 우선순위가 높습니다. 디렉터리 간 경로는 동일한 URL 경로로 확인되어서는 안 되며 충돌을 방지하기 위해 빌드 타임에서 오류가 발생합니다.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 기본적으로 앱 내부의 컴포넌트는 React Server 컴포넌트입니다. 이는 성능 최적화이며 이를 쉽게 채택할 수 있으며 클라이언트 컴포넌트도 사용할 수 있습니다.
 
@@ -60,7 +60,7 @@ Next.js는 다음과 같은 파일 시스템 기반 라우터를 사용합니다
 
 경로의 각 폴더는 경로 세그먼트를 나타냅니다. 각 경로 세그먼트는 URL 경로의 해당 세그먼트에 매핑됩니다.
 
-<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Nested Routes
 
@@ -112,11 +112,11 @@ Next.js는 중첩된 경로에서 특정 동작으로 UI를 생성하기 위한 
 
 \- `not-found.js` (React error boundary)
 
-\- `page.js` or 중첩된 `layout.js`![](<../../../.gitbook/assets/image (1) (1) (1).png>)
+\- `page.js` or 중첩된 `layout.js`![](<../../../.gitbook/assets/image (1) (1) (1) (1).png>)
 
 중첩 경로에서는 세그먼트의 컴포넌트가 상위 세그먼트의 컴포넌트 내에 중첩됩니다.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -141,10 +141,3 @@ Next.js는 중첩된 경로에서 특정 동작으로 UI를 생성하기 위한 
 예: 하나의 작업을 편집하거나 피드에서 사진을 확장하는 동안 모든 작업을 볼 수 있습니다.
 
 이러한 패턴을 사용하면 더 풍부하고 복잡한 UI를 구축할 수 있으며, 소규모 팀과 개별 개발자가 구현하기 복잡했던 기능을 통일할 수 있습니다.
-
-
-
-
-
-
-
