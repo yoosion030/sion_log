@@ -35,4 +35,6 @@
 
 ## Backend
 
-* [김영한의 자바 입문 - 코드로 시작하는 자바 첫걸음](backend/spring-introduction.md)
+* [김영한의 자바 입문 - 코드로 시작하는 자바 첫걸음](backend/spring-introduction/README.md)
+  * [1. Hello Java](backend/spring-introduction/1.-hello-java/README.md)
+    * [자바 프로그램 실행](backend/spring-introduction/1.-hello-java/undefined.md)
