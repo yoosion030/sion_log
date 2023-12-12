@@ -40,3 +40,5 @@
     * [자바 프로그램 실행](backend/spring-introduction/1.-hello-java/undefined.md)
     * [주석(comment)](backend/spring-introduction/1.-hello-java/comment.md)
     * [자바란?](backend/spring-introduction/1.-hello-java/undefined-1.md)
+  * [2. 변수](backend/spring-introduction/2./README.md)
+    * [변수 시작](backend/spring-introduction/2./undefined.md)
