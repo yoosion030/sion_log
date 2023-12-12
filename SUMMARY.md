@@ -43,3 +43,4 @@
   * [2. 변수](backend/spring-introduction/2./README.md)
     * [변수 시작](backend/spring-introduction/2./undefined.md)
     * [변수 값 변경](backend/spring-introduction/2./undefined-1.md)
+    * [변수 선언과 초기화](backend/spring-introduction/2./undefined-2.md)
