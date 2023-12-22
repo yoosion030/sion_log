@@ -51,4 +51,5 @@
     * [1-3. NestJS CLI 설치](backend/nestjs/1.-nestjs/1-3.-nestjs-cli.md)
   * [2. NestJS 기본 요소](backend/nestjs/2.-nestjs.md)
     * [2-1. 게시물 CRUD 애플리케이션 소개](backend/nestjs/2.-nestjs/2-1.-crud.md)
-    * [2-1. NestCLI로 생성한 프로젝트 기본구조](backend/nestjs/2.-nestjs/2-1.-nestcli.md)
+    * [2-2. NestCLI로 생성한 프로젝트 기본구조](backend/nestjs/2.-nestjs/2-2.-nestcli.md)
+    * [2-3. 기본 구조에서 살펴보는 Nest 로직 흐름](backend/nestjs/2.-nestjs/2-3.-nest.md)
