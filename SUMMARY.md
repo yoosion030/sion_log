@@ -45,4 +45,5 @@
     * [변수 값 변경](backend/spring-introduction/2./undefined-1.md)
     * [변수 선언과 초기화](backend/spring-introduction/2./undefined-2.md)
 * [따라하며 배우는 NestJS](backend/nestjs/README.md)
-  * [1. Nest JS 소개](backend/nestjs/1.-nest-js.md)
+  * [1. Nest JS 소개](backend/nestjs/1.-nest-js/README.md)
+    * [NestJS란?](backend/nestjs/1.-nest-js/nestjs.md)
