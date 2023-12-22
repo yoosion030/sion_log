@@ -56,3 +56,4 @@
     * [2-4. NestJS 모듈](backend/nestjs/2.-nestjs/2-4.-nestjs.md)
     * [2-5. Board Module 생성](backend/nestjs/2.-nestjs/2-5.-board-module.md)
     * [2-6. NestJS Controller란?](backend/nestjs/2.-nestjs/2-6.-nestjs-controller.md)
+    * [2-7. Board Controller 생성하기](backend/nestjs/2.-nestjs/2-7.-board-controller.md)
