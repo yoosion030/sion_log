@@ -49,4 +49,5 @@
     * [1-1. NestJS란?](backend/nestjs/1.-nestjs/1-1.-nestjs.md)
     * [1-2. NodeJS 설치하기](backend/nestjs/1.-nestjs/1-2.-nodejs.md)
     * [1-3. NestJS CLI 설치](backend/nestjs/1.-nestjs/1-3.-nestjs-cli.md)
-  * [2. NestJS 기본 요소](backend/nestjs/2.-nestjs.md)
+  * [2. NestJS 기본 요소](backend/nestjs/2.-nestjs/README.md)
+    * [2-1. 게시물 CRUD 애플리케이션 소개](backend/nestjs/2.-nestjs/2-1.-crud.md)
