@@ -54,3 +54,4 @@
     * [2-2. NestCLI로 생성한 프로젝트 기본구조](backend/nestjs/2.-nestjs/2-2.-nestcli.md)
     * [2-3. 기본 구조에서 살펴보는 Nest 로직 흐름](backend/nestjs/2.-nestjs/2-3.-nest.md)
     * [2-4. NestJS 모듈](backend/nestjs/2.-nestjs/2-4.-nestjs.md)
+    * [2-5. Board Module 생성](backend/nestjs/2.-nestjs/2-5.-board-module.md)
