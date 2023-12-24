@@ -65,3 +65,4 @@
     * [3-3. 게시물 생성하기 (Service 부분)](backend/nestjs/3.-crud/3-3.-service.md)
     * [3-4. 게시물 생성하기 (Controller 부분)](backend/nestjs/3.-crud/3-4.-controller.md)
     * [3-5. Data Transfer Object(DTO)](backend/nestjs/3.-crud/3-5.-data-transfer-object-dto.md)
+    * [3-6. 게시물 생성을 위한 DTO](backend/nestjs/3.-crud/3-6.-dto.md)
