@@ -63,3 +63,4 @@
     * [3-1. 모든 게시물을 가져오는 Service 만들기](backend/nestjs/3.-crud/3-1.-service.md)
     * [3-2. Board Model 정의하기](backend/nestjs/3.-crud/3-2.-board-model.md)
     * [3-3. 게시물 생성하기 (Service 부분)](backend/nestjs/3.-crud/3-3.-service.md)
+    * [3-4. 게시물 생성하기 (Controller 부분)](backend/nestjs/3.-crud/3-4.-controller.md)
