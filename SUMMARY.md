@@ -66,3 +66,4 @@
     * [3-4. 게시물 생성하기 (Controller 부분)](backend/nestjs/3.-crud/3-4.-controller.md)
     * [3-5. Data Transfer Object(DTO)](backend/nestjs/3.-crud/3-5.-data-transfer-object-dto.md)
     * [3-6. 게시물 생성을 위한 DTO](backend/nestjs/3.-crud/3-6.-dto.md)
+    * [3-7. ID로 특정 게시물 가져오기](backend/nestjs/3.-crud/3-7.-id.md)
