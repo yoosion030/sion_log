@@ -71,3 +71,4 @@
     * [3-9. 특정 게시물의 상태 업데이트](backend/nestjs/3.-crud/3-9..md)
   * [4. Pipe 이용](backend/nestjs/4.-pipe/README.md)
     * [4-1. NestJS Pipes](backend/nestjs/4.-pipe/4-1.-nestjs-pipes.md)
+    * [4-2. 파이프를 이용한 유효성 체크](backend/nestjs/4.-pipe/4-2..md)
