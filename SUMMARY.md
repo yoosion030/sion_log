@@ -68,3 +68,4 @@
     * [3-6. 게시물 생성을 위한 DTO](backend/nestjs/3.-crud/3-6.-dto.md)
     * [3-7. ID로 특정 게시물 가져오기](backend/nestjs/3.-crud/3-7.-id.md)
     * [3-8. ID로 특정 게시물 지우기](backend/nestjs/3.-crud/3-8.-id.md)
+    * [3-9. 특정 게시물의 상태 업데이트](backend/nestjs/3.-crud/3-9..md)
