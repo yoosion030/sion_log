@@ -75,3 +75,5 @@
     * [4-3. 특정 게시물을 찾을 때 없는 경우 결과 값 처리](backend/nestjs/4.-pipe/4-3..md)
     * [4-4. 없는 게시물을 지우려 할 때 결과 값 처리](backend/nestjs/4.-pipe/4-4..md)
     * [4-5. 커스텀 파이프를 이용한 유효성 체크](backend/nestjs/4.-pipe/4-5..md)
+  * [5.  Postgres & TypeORM 연동](backend/nestjs/5.-postgres-and-typeorm/README.md)
+    * [5-1. PostgresSQL 설치](backend/nestjs/5.-postgres-and-typeorm/5-1.-postgressql.md)
