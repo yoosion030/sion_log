@@ -78,3 +78,4 @@
   * [5.  Postgres & TypeORM 연동](backend/nestjs/5.-postgres-and-typeorm/README.md)
     * [5-1. PostgresSQL 설치](backend/nestjs/5.-postgres-and-typeorm/5-1.-postgressql.md)
     * [5-2. TypeORM 소개](backend/nestjs/5.-postgres-and-typeorm/5-2.-typeorm.md)
+    * [5-3. TypeORM 애플리케이션에서 이용하기](backend/nestjs/5.-postgres-and-typeorm/5-3.-typeorm.md)
