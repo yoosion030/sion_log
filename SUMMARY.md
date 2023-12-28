@@ -81,3 +81,5 @@
     * [5-3. TypeORM 애플리케이션에서 이용하기](backend/nestjs/5.-postgres-and-typeorm/5-3.-typeorm.md)
     * [5-4. 게시물을 위한 엔티티Entity 생성하기](backend/nestjs/5.-postgres-and-typeorm/5-4.-entity.md)
     * [5-5. Repository 생성하기](backend/nestjs/5.-postgres-and-typeorm/5-5.-repository.md)
+  * [6. 데이터베이스를 이용한 CRUD 구현](backend/nestjs/6.-crud/README.md)
+    * [6-1. 데이터베이스를 위한 소스코드 정리](backend/nestjs/6.-crud/6-1..md)
