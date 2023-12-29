@@ -85,3 +85,4 @@
     * [6-1. 데이터베이스를 위한 소스코드 정리](backend/nestjs/6.-crud/6-1..md)
     * [6-2. ID를 이용해서 특정 게시물 가져오기](backend/nestjs/6.-crud/6-2.-id.md)
     * [6-3. 게시물 생성하기](backend/nestjs/6.-crud/6-3..md)
+    * [6-4. 게시물 삭제하기](backend/nestjs/6.-crud/6-4..md)
